@@ -1,5 +1,5 @@
 # UAV-Photography-Dataset
-Images of Beibu Gulf University captured by drone
+Images of Beibu Gulf University captured by drone.
 Due to the large size of the dataset, the upload is still in progress.
 You can click on the link below to access the image dataset of cross flight lines.
 通过网盘分享的文件：Cross flight lines
